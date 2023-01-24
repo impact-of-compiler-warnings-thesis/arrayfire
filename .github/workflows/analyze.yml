@@ -28,7 +28,7 @@ jobs:
                            libfftw3-dev \
                            liblapacke-dev \
                            libatlas3gf-base \
-                           libatlas-dev \
+                           libatlas-base-dev \
                            libfftw3-dev \
                            liblapacke-dev \
                            opencl-headers \
